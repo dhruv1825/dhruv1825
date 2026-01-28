@@ -12,14 +12,14 @@
 - 🔥 Interested in real-world projects  
 - 📍 India
 
-📫 **Reach me at:** dhruvdhupar1825@gmail.com
+📫 **Reach me at:** your-email@gmail.com
 
 ---
 
 ## 🛠️ Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,js,git,github,vscode&theme=dark" />
 </p>
 
 ---
@@ -31,7 +31,16 @@
 
 ---
 
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhruv1825&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv1825&theme=radical" />
+</p>
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
