@@ -12,7 +12,7 @@
 - 🔥 Interested in real-world projects  
 - 📍 India
 
-📫 **Reach me at:** your-email@gmail.com
+📫 **Reach me at:** dhruvdhupar1825@gmail.com
 
 ---
 
