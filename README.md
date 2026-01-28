@@ -1,7 +1,7 @@
 # ✨ Dhruv Dhupar ✨
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hi%2C+I’m+Dhruv!;%F0%9F%9A%80+Learning+%7C+Building+%7C+Growing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=%F0%9F%91%8BCiao%2C+World!;%F0%9F%9A%80+Always+learning%2C+always+building" />
 </p>
 
 ---
@@ -14,15 +14,26 @@
 
 📫 **Reach me at:** dhruvdhupar1825@gmail.com
 
----
-
 ## 🛠️ Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,c,html,css,js,git,github,vscode&theme=dark" />
 </p>
 
 ---
+
+
+## 🚀 Featured Projects
+### 📦 Inventory Management System  
+Java, JDBC, MySQL *(Ongoing)*  
+Console-based inventory system with CRUD operations.
+
+### 🏦 Online Banking Simulation  
+Java, OOPS *(Console Application)*  
+Simple banking system using OOPS concepts.
+
+---
+
 
 ## 🚀 Learning Goals
 - Data Structures & Algorithms  
@@ -42,5 +53,3 @@
 </p>
 
 ---
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
