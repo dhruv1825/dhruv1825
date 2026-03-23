@@ -1,7 +1,7 @@
 # ✨ Dhruv Dhupar ✨
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=950&lines=%F0%9F%87%AC%F0%9F%87%A7+Hello+World;%F0%9F%87%AE%F0%9F%87%B3+Namaste+Duniya;%F0%9F%87%AB%F0%9F%87%B7+Bonjour+le+monde;%F0%9F%87%AA%F0%9F%87%B8+Hola+Mundo;%F0%9F%87%B7%F0%9F%87%BA+Privet+mir;%F0%9F%87%AE%F0%9F%87%B9+Ciao+World">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=950&lines=%F0%9F%87%AC%F0%9F%87%A7+Hello+World;%F0%9F%87%AE%F0%9F%87%B3+Namaste+Duniya;%F0%9F%87%AB%F0%9F%87%B7+Bonjour+le+monde;%F0%9F%87%AA%F0%9F%87%B8+Hola+Mundo;%F0%9F%87%B7%F0%9F%87%BA+Privet+mir;%F0%9F%87%AE%F0%9F%87%B9+Ciao+World">
 </p>
 ---
 
