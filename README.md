@@ -1,6 +1,8 @@
 # ✨ Dhruv Dhupar ✨
 
-![Typing SVG](https://readme-typing-svg.demolab.com?lines=Hello+World;Namaste+Duniya;Bonjour+le+monde;Hola+Mundo;Privet+mir;Ciao+World)
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Hello+World;Namaste+Duniya;Bonjour+le+monde;Hola+Mundo;Privet+mir;Ciao+World">
+</p>
 
 ---
 
