@@ -1,9 +1,8 @@
 # ✨ Dhruv Dhupar ✨
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Hello+World;Namaste+Duniya;Bonjour+le+monde;Hola+Mundo;Privet+mir;Ciao+World">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=900&lines=%F0%9F%91%8B+Hello+World;%F0%9F%91%8B+Namaste+Duniya;%F0%9F%91%8B+Bonjour+le+monde;%F0%9F%91%8B+Hola+Mundo;%F0%9F%91%8B+Privet+mir;%F0%9F%91%8B+Ciao+World">
 </p>
-
 ---
 
 ## 🙋‍♂️ About Me
